@@ -16,6 +16,8 @@ Có phải việc đi kiếm tìm niềm vui của người trẻ giờ đây tr
 Tôi, với tư cách là một người thầy mạn phép phân tích những cái hay, cái chưa hay để những ai hữu duyên hiểu được tâm tư này sẽ kiếm tìm được cho mình một niềm vui ở tận trong tâm giữa thế giới hiện nay với những thông tin không hồi kết.
 
 Trong bài viết này, tôi mong muốn chia sẻ quan điểm cá nhân của mình, cũng như góc nhìn của tôi về : 
-- Duc vọng vật chất.
+- Dục vọng vật chất.
 - Danh tiếng cá nhân.
 - Quyền lực cá nhân.
+
+# 1 Dục vọng vật chất.
