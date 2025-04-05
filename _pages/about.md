@@ -14,7 +14,7 @@ p {
 
 # Professional Background
 
-I am a senior AI engineer at FPT Software, and before this, I served as a senior software engineer at LG Electronics. I obtained my engineering degree from Hanoi University of Science and Technology in 2018. In 2023, I completed my Master's in Electrical and Electronics Engineering from Hanyang University, Ansan, Korea.
+I am now a Ph.D student at Department of Electrical and Information Technology. Previously, I was a senior AI engineer at FPT Software, and before this, I served as a senior software engineer at LG Electronics. I obtained my engineering degree from Hanoi University of Science and Technology in 2018. In 2023, I completed my Master's in Electrical and Electronics Engineering from Hanyang University, Ansan, Korea.
 
 My research interests lie in the realm of software engineering, particularly within the fields of edge/cloud computing and computer systems. In addition, my primary focuses include greedy algorithms, graph theory, and deep reinforcement learning (DRL).
 
