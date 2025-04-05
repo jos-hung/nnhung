@@ -18,6 +18,10 @@ I am now a Ph.D student at Department of Electrical and Information Technology. 
 
 My research interests lie in the realm of software engineering, particularly within the fields of edge/cloud computing and computer systems. In addition, my primary focuses include greedy algorithms, graph theory, and deep reinforcement learning (DRL).
 
+# Lecturer at Phenikaa University
+
+I am a faculty member at School of Computing Phenikaa University, Yen Nghia, Ha Dong, Hanoi. I am excited to work with my dear co-workers and students here.
+
 # Research Journey
 
 I started my research journey as a student at Hanoi University of Science and Technology. I worked with my labmate at the Motor Design Lab under the supervision of Prof. [Bui Minh Dinh](https://scholar.google.com/citations?hl=en&user=lACArY4AAAAJ) and the Chemical Processing Lab under the guidance of Prof. [Nguyen Dang Binh Thanh](https://scholar.google.com/citations?user=uu5VPhcAAAAJ&hl=vi&oi=sra). Here, I did research in numerical methods, computer systems, and motor design. This research then led me to receive third place in the student research competition at Hanoi University of Science and Technology.
