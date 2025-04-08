@@ -1,5 +1,5 @@
 ---
-title: 'Góc suy tư #2'
+title: 'Bàn về sự yếu đuối'
 date: 2025-04-08
 permalink: /posts/2025/08/niem-vui-self-help/2
 tags:
