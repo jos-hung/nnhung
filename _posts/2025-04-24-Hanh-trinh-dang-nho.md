@@ -46,7 +46,7 @@ Còn mấy năm nữa là hết tuổi 20 của mình ròi thấy nhớ mỗi ng
   </div>
 
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/khanh.jpg" alt="Khánh" style="max-width: 200px;">
+    <img src="{{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/khanh.jpeg" alt="Khánh" style="max-width: 200px;">
     <br>
     <strong>Thằng em xã hội :)</strong>
   </div>
