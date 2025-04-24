@@ -30,6 +30,20 @@ Rồi lặng đến 2021 nhanh không tả nổi.
 - 2022 già thật rồi vẫn nhớ cuốn sách tuổi 20 giai đoạn quyết định cuộc đời của bạn. Cuốn sách hay nên đọc nhé.  
 Còn mấy năm nữa là hết tuổi 20 của mình ròi thấy nhớ mỗi người đã từng gặp, từng nói chuyện, đáng trân trọng thật :)  
 
- ![](/_posts/images/hanh-trinh-dang-nho/me.jpeg)
- ![](/_posts/images/hanh-trinh-dang-nho/sach.jpeg)
- ![](/_posts/images/hanh-trinh-dang-nho/khanh.jpeg)
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+  ![me]({{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/me.jpeg)
+  <br>
+  **Tôi hồ ở LG electronics, "nhìn hơi chán đời" **
+
+  ![Tuổi-20]({{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/sach.jpeg)
+  <br>
+  **Cuốn sách khá hay cho những người trẻ**
+
+  ![Khánh]({{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/khanh.jpg)
+  <br>
+  **Thằng em xã hội :)**
+
+</div>
+
