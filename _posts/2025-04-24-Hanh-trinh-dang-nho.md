@@ -33,17 +33,22 @@ Còn mấy năm nữa là hết tuổi 20 của mình ròi thấy nhớ mỗi ng
 
 <div style="display: flex; justify-content: center; gap: 20px;">
 
-  ![me]({{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/me.jpeg)
-  <br>
-  **Tôi hồ ở LG electronics, "nhìn hơi chán đời" **
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/me.jpeg" alt="me" style="max-width: 200px;">
+    <br>
+    <strong>Tôi hồi ở LG electronics, "nhìn hơi chán đời"</strong>
+  </div>
 
-  ![Tuổi-20]({{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/sach.jpeg)
-  <br>
-  **Cuốn sách khá hay cho những người trẻ**
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/sach.jpeg" alt="Tuổi-20" style="max-width: 200px;">
+    <br>
+    <strong>Cuốn sách khá hay cho những người trẻ</strong>
+  </div>
 
-  ![Khánh]({{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/khanh.jpg)
-  <br>
-  **Thằng em xã hội :)**
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/blog_images/hanh-trinh-dang-nho/khanh.jpg" alt="Khánh" style="max-width: 200px;">
+    <br>
+    <strong>Thằng em xã hội :)</strong>
+  </div>
 
 </div>
-
