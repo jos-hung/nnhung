@@ -27,18 +27,20 @@ My research interests lie in the realm of software engineering, particularly wit
     In: <em>Proceedings of the IEEE Global Communications Conference (GLOBECOM)</em>. IEEE.
   </li>
 
-  <li>
+  <li style="margin-bottom: 10px;">
     <strong>July 2025:</strong>
-    <em>Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning</em> 
-    is now available on 
+    <em>Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning</em>
+    is now available on
     <a href="https://arxiv.org/abs/2507.19712" target="_blank">arXiv</a>.
   </li>
+
   <li>
     <strong>2025:</strong>
-    <em>Finding all publications at:
-    <a href="https://orcid.org/my-orcid?orcid=0009-0007-7363-5014" target="_blank">all publications</a>.
+    Find all publications on
+    <a href="https://orcid.org/0009-0007-7363-5014" target="_blank">ORCID</a>.
   </li>
 </ul>
+
 
 # Lecturer at Phenikaa University
 
