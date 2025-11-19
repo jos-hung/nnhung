@@ -9,8 +9,6 @@ location: "City, Country"
 ---
 
 Data Processing with Python
-======
-
 
 Cloud Computing
 ======
