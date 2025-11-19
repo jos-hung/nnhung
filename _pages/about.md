@@ -25,7 +25,7 @@ My research interests lie in the realm of software engineering, particularly wit
     <strong>Nguyen, N. H.</strong>, Nguyen, V. T., Luu, Q.-T., Vo, P. S., and Nguyen, V.-D. (2025).
     <em>A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems.</em>
     In: <em>Proceedings of the IEEE Global Communications Conference (GLOBECOM)</em>. IEEE.
-    Slide availabe at <a href="https://jos-hung.github.io/nnhung/files/Globecom2025.pdf" target="_blank">arXiv</a>
+    <em>Slide availabe at <a href="https://jos-hung.github.io/nnhung/files/Globecom2025.pdf" target="_blank">arXiv</a><em>
   </li>
 
   <li style="margin-bottom: 10px;">
