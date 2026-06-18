@@ -57,13 +57,9 @@ I was a master's student at Hanyang University in Electronics under the supervis
 I have completed 20 peer reviews for the following publications:
 
 - Computer Networks Journal (Q1, Elsevier)
+- Computer Communication Journal (Q1, Elsevier)
 - IEEE Internet of Things Journal (Q1, IEEE)
 - IEEE Communications Letters (Q1, IEEE)
 - IEEE Transaction on Intelligence Transportation Systems (Q1, IEEE)
 
 # Collaboration
-
-
-
-
-
