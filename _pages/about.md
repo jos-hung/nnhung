@@ -21,18 +21,18 @@ My research interests lie in the realm of software engineering, particularly wit
 <h2 style="color:#004aad;">News</h2>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li style="margin-bottom: 10px;">
+    <strong>Jule 2026:</strong>
+    <em>Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning</em>
+    has been accepted for public in IEEE Transactions on Intelligence Transportation Systems, the preprint version is available at
+    <a href="https://arxiv.org/abs/2507.19712" target="_blank">arXiv</a>.
+  </li>
+
+  <li style="margin-bottom: 10px;">
     <strong>July 2025:</strong>
     <strong>Nguyen, N. H.</strong>, Nguyen, V. T., Luu, Q.-T., Vo, P. S., and Nguyen, V.-D. (2025).
     <em>A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems.</em>
     In: <em>Proceedings of the IEEE Global Communications Conference (GLOBECOM)</em>. IEEE.
     <em> <a href="https://jos-hung.github.io/nnhung/files/Globecom2025.pdf" target="_blank">Presentation</a></em>
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <strong>July 2025:</strong>
-    <em>Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning</em>
-    is now available on
-    <a href="https://arxiv.org/abs/2507.19712" target="_blank">arXiv</a>.
   </li>
 
   <li>
