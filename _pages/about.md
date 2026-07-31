@@ -20,6 +20,14 @@ My research interests lie in the realm of software engineering, particularly wit
 
 <h2 style="color:#004aad;">News</h2>
 <ul style="list-style-type: disc; padding-left: 20px;">
+
+  <li style="margin-bottom: 10px;">
+    <strong>Junly 2026:</strong>
+    <em>Learning-Based Collaborative MEC for LLM Inference with Soft-Deadline Awareness via Transformer-Enhanced PPO</em>
+    has been accepted for public in 2026 IEEE Global Communications Conference Selected Areas in Communications: Cloud/Edge Computing and Networking
+    <a href="updating" target="_blank">updating</a>.
+  </li>
+
   <li style="margin-bottom: 10px;">
     <strong>Jule 2026:</strong>
     <em>Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning</em>
