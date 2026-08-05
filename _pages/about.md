@@ -24,8 +24,8 @@ My research interests lie in the realm of software engineering, particularly wit
   <li style="margin-bottom: 10px;">
     <strong>July 2026:</strong>
     <em>Learning-Based Collaborative MEC for LLM Inference with Soft-Deadline Awareness via Transformer-Enhanced PPO</em>
-    has been accepted for public in 2026 IEEE Global Communications Conference Selected Areas in Communications: Cloud/Edge Computing and Networking
-    <a href="the slide is updating" target="_blank">the slide is updating</a>.
+    has been accepted for public in 2026 IEEE Global Communications Conference Selected Areas in Communications: Cloud/Edge Computing and Networking, reading preprint at
+    <a href="https://arxiv.org/abs/2608.02031" target="_blank">arxiv</a>.
   </li>
 
   <li style="margin-bottom: 10px;">
