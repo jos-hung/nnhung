@@ -18,35 +18,28 @@ I am now a doctoral researcher at Department of Electrical and Information Techn
 
 My research interests lie in the realm of software engineering, particularly within the fields of edge/cloud computing and computer systems. In addition, my primary focuses include greedy algorithms, graph theory, and deep reinforcement learning (DRL).
 
-<h2 style="color:#004aad;">News</h2>
-<ul style="list-style-type: disc; padding-left: 20px;">
+# News
 
-  <li style="margin-bottom: 10px;">
-    <strong>July 2026:</strong>
-    <em>Learning-Based Collaborative MEC for LLM Inference with Soft-Deadline Awareness via Transformer-Enhanced PPO</em>
-    has been accepted for public in 2026 IEEE Global Communications Conference Selected Areas in Communications: Cloud/Edge Computing and Networking, reading preprint at
-    <a href="https://arxiv.org/abs/2608.02031" target="_blank">arxiv</a>.
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <strong>June 2026:</strong>
-    <em>Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning</em>
-    has been accepted for public in IEEE Transactions on Intelligence Transportation Systems, the preprint version is available at
-    <a href="https://arxiv.org/abs/2507.19712" target="_blank">arXiv</a>.
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <strong>July 2025:</strong>
-    <strong>Nguyen, N. H.</strong>, Nguyen, V. T., Luu, Q.-T., Vo, P. S., and Nguyen, V.-D. (2025).
-    <em>A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems.</em>
-    In: <em>Proceedings of the IEEE Global Communications Conference (GLOBECOM)</em>. IEEE.
-    <em> <a href="https://jos-hung.github.io/nnhung/files/Globecom2025.pdf" target="_blank">Presentation</a></em>
-  </li>
-
+<ul class="news">
   <li>
-    <strong>2025:</strong>
-    Find all publications on
-    <a href="https://orcid.org/0009-0007-7363-5014" target="_blank">ORCID</a>.
+    <span class="news__date">November 2026</span>
+    <span class="news__text"><em>Offloading Under Periodic Resource Reallocation in Mobile Edge Computing Using Deep Reinforcement Learning</em> has been accepted for publication at the 2026 IEEE International Conference on Information Networking (ICOIN) — <a href="https://arxiv.org/abs/...." target="_blank">arXiv</a>.</span>
+  </li>
+  <li>
+    <span class="news__date">July 2026</span>
+    <span class="news__text"><em>Learning-Based Collaborative MEC for LLM Inference with Soft-Deadline Awareness via Transformer-Enhanced PPO</em> has been accepted for publication at the 2026 IEEE Global Communications Conference (GLOBECOM), Selected Areas in Communications: Cloud/Edge Computing and Networking — preprint on <a href="https://arxiv.org/abs/2608.02031" target="_blank">arXiv</a>.</span>
+  </li>
+  <li>
+    <span class="news__date">June 2026</span>
+    <span class="news__text"><em>Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning</em> has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems — preprint on <a href="https://arxiv.org/abs/2507.19712" target="_blank">arXiv</a>.</span>
+  </li>
+  <li>
+    <span class="news__date">July 2025</span>
+    <span class="news__text"><strong>Nguyen, N. H.</strong>, Nguyen, V. T., Luu, Q.-T., Vo, P. S., and Nguyen, V.-D. <em>A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems.</em> In: Proceedings of the IEEE Global Communications Conference (GLOBECOM), 2025 — <a href="https://jos-hung.github.io/nnhung/files/Globecom2025.pdf" target="_blank">Presentation</a>.</span>
+  </li>
+  <li>
+    <span class="news__date">All publications</span>
+    <span class="news__text">Find the full list on <a href="https://orcid.org/0009-0007-7363-5014" target="_blank">ORCID</a>.</span>
   </li>
 </ul>
 

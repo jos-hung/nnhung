@@ -1,0 +1,292 @@
+/* ==========================================================================
+   Custom theme refresh
+   Loaded last from assets/css/main.scss so it overrides the base theme.
+   ========================================================================== */
+
+$accent        : #004aad;
+$accent-soft   : #e8f0fb;
+$ink           : #1f2933;
+$muted         : #5f6b76;
+$hairline      : #e6e9ee;
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  color: $ink;
+}
+
+::selection {
+  background: $accent-soft;
+  color: $accent;
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  background: rgba(255, 255, 255, 0.9);
+  -webkit-backdrop-filter: saturate(180%) blur(10px);
+  backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid $hairline;
+  box-shadow: 0 1px 12px rgba(16, 24, 40, 0.04);
+}
+
+.masthead__menu-item a {
+  color: $muted;
+  font-weight: 500;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $accent;
+  }
+}
+
+.masthead__menu-item--lg a {
+  color: $ink;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.greedy-nav .visible-links a:before {
+  background: $accent;
+  height: 3px;
+  border-radius: 3px;
+}
+
+/* ---------- Sidebar / author card ---------- */
+
+.author__avatar img {
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 6px 20px rgba(0, 74, 173, 0.18);
+  transition: transform 0.3s ease;
+
+  &:hover {
+    transform: scale(1.03);
+  }
+}
+
+.author__name {
+  color: $ink;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  color: $accent;
+  font-weight: 500;
+}
+
+.author__urls {
+  li {
+    color: $muted;
+  }
+
+  a {
+    color: $muted;
+    border-radius: 6px;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: $accent;
+      text-decoration: none;
+    }
+  }
+}
+
+/* ---------- Page typography ---------- */
+
+.page__title {
+  color: $ink;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.page__content {
+  line-height: 1.75;
+
+  h1,
+  h2 {
+    position: relative;
+    margin-top: 2.2em;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid $hairline;
+    color: $ink;
+    font-weight: 700;
+    letter-spacing: -0.015em;
+
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 48px;
+      height: 3px;
+      border-radius: 3px;
+      background: $accent;
+    }
+  }
+
+  h1:first-child,
+  h2:first-child {
+    margin-top: 0.5em;
+  }
+
+  h3 {
+    color: $ink;
+    font-weight: 600;
+  }
+
+  a {
+    color: $accent;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.25s ease;
+
+    &:hover {
+      background-size: 100% 1px;
+    }
+  }
+
+  blockquote {
+    border-left: 3px solid $accent;
+    background: $accent-soft;
+    border-radius: 0 8px 8px 0;
+    padding: 0.8em 1.2em;
+    font-style: normal;
+  }
+
+  ul li {
+    margin-bottom: 0.35em;
+  }
+}
+
+/* ---------- News timeline (About page) ---------- */
+
+.page__content ul.news {
+  list-style: none;
+  margin: 1.2em 0 1.5em;
+  padding: 0;
+  border-left: 2px solid $hairline;
+
+  li {
+    position: relative;
+    margin: 0 0 1.1em;
+    padding: 0.2em 0 0.2em 1.4em;
+    text-align: left;
+
+    &:before {
+      content: "";
+      position: absolute;
+      left: -7px;
+      top: 0.55em;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: #fff;
+      border: 2px solid $accent;
+    }
+
+    &:first-child:before {
+      background: $accent;
+    }
+  }
+
+  .news__date {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.1em 0.65em;
+    border-radius: 999px;
+    background: $accent-soft;
+    color: $accent;
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .news__text {
+    display: block;
+    color: $ink;
+  }
+}
+
+/* ---------- Archive lists (publications, talks, posts) ---------- */
+
+.archive__item {
+  position: relative;
+  padding: 1em 1.2em;
+  margin-bottom: 1em;
+  border: 1px solid $hairline;
+  border-radius: 12px;
+  background: #fff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: mix(#fff, $accent, 70%);
+    box-shadow: 0 8px 24px rgba(16, 24, 40, 0.08);
+    transform: translateY(-2px);
+  }
+}
+
+.archive__item-title {
+  margin-top: 0;
+  font-weight: 600;
+
+  a {
+    color: $ink;
+
+    &:hover {
+      color: $accent;
+    }
+  }
+}
+
+.archive__item-excerpt {
+  color: $muted;
+}
+
+.archive__subtitle {
+  color: $accent;
+  border-bottom: 1px solid $hairline;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.btn--inverse {
+  border-color: $hairline;
+  color: $ink;
+
+  &:hover {
+    background: $accent;
+    border-color: $accent;
+    color: #fff;
+  }
+}
+
+/* ---------- Footer ---------- */
+
+.page__footer {
+  background: #f7f9fc;
+  border-top: 1px solid $hairline;
+  color: $muted;
+
+  a {
+    color: $muted;
+
+    &:hover {
+      color: $accent;
+    }
+  }
+}
