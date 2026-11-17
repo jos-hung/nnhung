@@ -57,16 +57,16 @@ body {
 
 /* ---------- Sidebar / author card ---------- */
 
-/* Square crop focused on the face: the source photo is portrait, so a plain
-   border-radius would turn it into a stretched oval. */
+/* Square crop focused on the face, near-sharp corners (no circle/oval). */
 .author__avatar img {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   object-position: 50% 30%;
-  border-radius: 14px;
-  border: 1px solid $hairline;
-  box-shadow: 0 4px 14px rgba(16, 24, 40, 0.08);
+  border-radius: 4px !important;
+  padding: 0 !important;
+  border: 1px solid $hairline !important;
+  box-shadow: 0 2px 8px rgba(16, 24, 40, 0.08);
 
   @include breakpoint($large) {
     max-width: 200px;
