@@ -26,3 +26,11 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+# Gems removed from Ruby's default set (Ruby 3.4+/4.x); needed by Jekyll 3.x locally
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "ostruct"
+gem "observer"

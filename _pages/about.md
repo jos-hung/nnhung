@@ -44,9 +44,25 @@ My research interests lie in the realm of software engineering, particularly wit
 </ul>
 
 
-# Lecturer at Phenikaa University
+# Teaching
 
-I am a faculty member at School of Computing Phenikaa University, Yen Nghia, Ha Dong, Hanoi. I am excited to work with my dear co-workers and students here.
+<ul class="teaching">
+  <li>
+    <span class="teaching__role">Teaching Assistant · Lund University</span>
+    <span class="teaching__course">Computer Communication</span>
+    <span class="teaching__year">2025 – 2026</span>
+  </li>
+  <li>
+    <span class="teaching__role">Teaching Assistant · Lund University</span>
+    <span class="teaching__course">Computer Architecture</span>
+    <span class="teaching__year">2026</span>
+  </li>
+  <li>
+    <span class="teaching__role">Lecturer · Phenikaa University, School of Computing</span>
+    <span class="teaching__course">Data Processing with Python · Computer Architecture · Cloud Computing</span>
+    <span class="teaching__year">2024</span>
+  </li>
+</ul>
 
 # Research Journey
 
@@ -54,13 +70,12 @@ I started my research journey as a student at Hanoi University of Science and Te
 
 I was a master's student at Hanyang University in Electronics under the supervision of Prof. [Sang-Woon Jeon](https://sites.google.com/view/icl-lab/team/professor?authuser=0). Thanks to Prof. Jeon's guidance, I developed a deeper understanding of research concepts and writing skills. During this time, I also explored AI fields, especially deep reinforcement learning, Markovian decision processes, and cloud systems which were instrumental in the completion of my [thesis](https://repository.hanyang.ac.kr/handle/20.500.11754/188311).
 
-# Activity
-I have completed 20 peer reviews for the following publications:
+# Academic Service
+
+I have completed 20 peer reviews for the following journals:
 
 - Computer Networks Journal (Q1, Elsevier)
 - Computer Communication Journal (Q1, Elsevier)
 - IEEE Internet of Things Journal (Q1, IEEE)
 - IEEE Communications Letters (Q1, IEEE)
-- IEEE Transaction on Intelligence Transportation Systems (Q1, IEEE)
-
-# Collaboration
+- IEEE Transactions on Intelligent Transportation Systems (Q1, IEEE)

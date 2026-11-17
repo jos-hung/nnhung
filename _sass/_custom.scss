@@ -57,14 +57,19 @@ body {
 
 /* ---------- Sidebar / author card ---------- */
 
+/* Square crop focused on the face: the source photo is portrait, so a plain
+   border-radius would turn it into a stretched oval. */
 .author__avatar img {
-  border-radius: 50%;
-  border: 3px solid #fff;
-  box-shadow: 0 6px 20px rgba(0, 74, 173, 0.18);
-  transition: transform 0.3s ease;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: 50% 30%;
+  border-radius: 14px;
+  border: 1px solid $hairline;
+  box-shadow: 0 4px 14px rgba(16, 24, 40, 0.08);
 
-  &:hover {
-    transform: scale(1.03);
+  @include breakpoint($large) {
+    max-width: 200px;
   }
 }
 
@@ -215,6 +220,55 @@ body {
   }
 }
 
+/* ---------- Teaching list (About page) ---------- */
+
+.page__content ul.teaching {
+  list-style: none;
+  margin: 1.2em 0 1.5em;
+  padding: 0;
+  display: grid;
+  gap: 0.8em;
+
+  li {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "course year"
+      "role   year";
+    column-gap: 1em;
+    margin: 0;
+    padding: 0.9em 1.1em;
+    border: 1px solid $hairline;
+    border-left: 3px solid $accent;
+    border-radius: 10px;
+    background: #fff;
+  }
+
+  .teaching__course {
+    grid-area: course;
+    color: $ink;
+    font-weight: 600;
+  }
+
+  .teaching__role {
+    grid-area: role;
+    color: $muted;
+    font-size: 0.85em;
+  }
+
+  .teaching__year {
+    grid-area: year;
+    align-self: center;
+    padding: 0.15em 0.7em;
+    border-radius: 999px;
+    background: $accent-soft;
+    color: $accent;
+    font-size: 0.78em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+}
+
 /* ---------- Archive lists (publications, talks, posts) ---------- */
 
 .archive__item {
@@ -288,5 +342,54 @@ body {
     &:hover {
       color: $accent;
     }
+  }
+}
+
+/* ---------- Topic tags (portfolio excerpts) ---------- */
+
+.archive__item-excerpt .tags {
+  display: inline-block;
+  margin-top: 0.4em;
+  padding: 0.15em 0.7em;
+  border-radius: 999px;
+  background: $accent-soft;
+  color: $accent;
+  font-size: 0.78em;
+  font-weight: 600;
+}
+
+/* ---------- CV page ---------- */
+
+.cv-entry {
+  margin: 0 0 1.4em;
+
+  .cv-entry__head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0 1em;
+  }
+
+  .cv-entry__org {
+    color: $ink;
+    font-weight: 700;
+  }
+
+  .cv-entry__date {
+    color: $accent;
+    font-size: 0.85em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .cv-entry__role {
+    color: $muted;
+    font-style: italic;
+    font-size: 0.95em;
+  }
+
+  ul {
+    margin-top: 0.4em;
   }
 }
